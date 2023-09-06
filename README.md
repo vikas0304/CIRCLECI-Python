@@ -1,1 +1,2 @@
-# CIRCLECI-Python
+python main.py
+python test.pycd..
